@@ -1,4 +1,4 @@
-# Spring Cache - Redis
+# Spring - Redis Cache Demo
 Caching data with Redis and Spring. Demonstration of main cache features that Spring offers: @CacheEvict, @CachePut and @Cacheable. 
 
 ### Requirements
