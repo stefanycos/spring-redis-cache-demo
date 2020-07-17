@@ -1,0 +1,3 @@
+--INSERT INTO users (id, name, age, passport_number) values (1, "Zorobabel", 45, "972653161");
+--INSERT INTO users (id, name, age, passport_number) values (2, "Salomão", 18, "22653101");
+--INSERT INTO users (id, name, age, passport_number) values (3, "Joquebede", 12, "000326895");
